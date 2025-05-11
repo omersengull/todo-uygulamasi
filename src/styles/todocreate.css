@@ -1,0 +1,21 @@
+input {
+    outline: none;
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 11px;
+}
+
+button {
+
+    cursor: pointer;
+    font-weight: 700;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    background-color: rgb(240, 206, 16);
+    color: black;
+    height: 30px;
+    margin-left: 340px;
+}

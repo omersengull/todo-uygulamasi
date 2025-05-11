@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    padding: none;
+}
+
+.todos {
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+
+li {
+    border: 1px solid gray;
+}
+
+.icon {
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
